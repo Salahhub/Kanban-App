@@ -2,7 +2,7 @@
 Kanban Board in Vanilla JS
 
 # Live Demo
-[here]( https://salahhub.github.io/Kanban-App/)
+https://salahhub.github.io/Kanban-App
 
 # Features
 1. CRUD Sections
